@@ -1,2 +1,2 @@
-# Famicom-Graphics-Engine
-Family Computer Graphics Engine
+# Famicom Graphics Engine
+Family Computer Graphics Engine in Rust
